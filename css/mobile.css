@@ -1,0 +1,31 @@
+@media (max-width : 380px) {
+    body{
+        width: 95%;
+        margin: auto;
+    }
+    header ul{
+        display: block;
+        padding: 0;
+
+    }
+
+    section {
+        display: block;
+    }
+    h1{
+        font-size: 25px;
+    }
+    header,
+    h1,
+    aside,
+    main,
+    li,
+    ul {
+        padding: 0 ;
+        width: 100%;
+        margin: 1em 0;
+
+    }
+
+
+}

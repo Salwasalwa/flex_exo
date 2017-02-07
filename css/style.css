@@ -46,6 +46,7 @@ aside, main {
 
 aside ul {
     list-style-type: none;
+    background-color: rgb(227, 99, 65);
 
 
 }
@@ -55,6 +56,7 @@ li {
     text-align: center;
 
 }
+
 p{
     margin: 1em;
     text-align: justify;
